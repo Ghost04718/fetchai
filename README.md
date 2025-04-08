@@ -1,8 +1,8 @@
 # Writer Murakami
 
-A multi-agent AI system that analyzes Haruki Murakami's literary works and generates responses in his distinctive style using advanced RAG (Retrieval Augmented Generation) techniques.
+![tag : innovationlab](https://img.shields.io/badge/innovationlab-3D8BD3)
 
-![Murakami Style](https://i.imgur.com/JQIndFf.png)
+A multi-agent AI system that analyzes Haruki Murakami's literary works and generates responses in his distinctive style using advanced RAG (Retrieval Augmented Generation) techniques.
 
 ## Overview
 
